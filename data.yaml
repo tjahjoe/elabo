@@ -1,0 +1,5 @@
+train: C:/python/yolo/pose/hand/elabo/imgs/train
+val: C:/python/yolo/pose/hand/elabo/imgs/val
+
+names:
+ 0: ana
